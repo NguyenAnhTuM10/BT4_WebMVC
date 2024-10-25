@@ -7782,11 +7782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HocKy5\\Net\\ThucHanhWebMVC\\ThucHanhWebMVC\\ThucHanhWebMVC.csproj",
+      "projectUniqueName": "D:\\HocKy5\\Net\\ThucHanhWebMVC\\BT4_WebMVC\\ThucHanhWebMVC\\ThucHanhWebMVC.csproj",
       "projectName": "ThucHanhWebMVC",
-      "projectPath": "D:\\HocKy5\\Net\\ThucHanhWebMVC\\ThucHanhWebMVC\\ThucHanhWebMVC.csproj",
+      "projectPath": "D:\\HocKy5\\Net\\ThucHanhWebMVC\\BT4_WebMVC\\ThucHanhWebMVC\\ThucHanhWebMVC.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\HocKy5\\Net\\ThucHanhWebMVC\\ThucHanhWebMVC\\obj\\",
+      "outputPath": "D:\\HocKy5\\Net\\ThucHanhWebMVC\\BT4_WebMVC\\ThucHanhWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
