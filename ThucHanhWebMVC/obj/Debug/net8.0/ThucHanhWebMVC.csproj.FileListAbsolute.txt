@@ -521,3 +521,12 @@ D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\obj\Debug\net8.0\refint\T
 D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\obj\Debug\net8.0\ThucHanhWebMVC.pdb
 D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\obj\Debug\net8.0\ThucHanhWebMVC.genruntimeconfig.cache
 D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\obj\Debug\net8.0\ref\ThucHanhWebMVC.dll
+D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\bin\Debug\net8.0\System.Web.Mvc.dll
+D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\bin\Debug\net8.0\System.Web.Razor.dll
+D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\bin\Debug\net8.0\System.Web.Helpers.dll
+D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\bin\Debug\net8.0\System.Web.WebPages.dll
+D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\bin\Debug\net8.0\X.PagedList.Mvc.dll
+D:\HocKy5\Net\ThucHanhWebMVC\BT4_WebMVC\ThucHanhWebMVC\bin\Debug\net8.0\X.PagedList.Web.Common.dll
